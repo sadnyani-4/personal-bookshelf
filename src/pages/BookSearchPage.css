@@ -1,0 +1,13 @@
+.BookSearchPage {
+    background-color: #F8F3ED;
+}
+
+input.SearchBar {    
+    border-radius: 50px;
+    background-color: transparent;
+    padding: 8px;
+    font-size: 9px;
+    color: #daaa63;
+    border-color: #daaa63;
+    border-width: 1px;
+}
